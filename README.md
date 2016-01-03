@@ -1,4 +1,4 @@
-# atom_bootstrap
+# Config my Atom Text Editor
 Script to have ready my favorite editor
 
 ## Packages to install:
