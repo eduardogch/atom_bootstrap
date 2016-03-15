@@ -9,7 +9,3 @@ Script to have ready my favorite editor
 
 ## Project Home:
 	~/Apps/
-
-## Add to keymap.cson (Emmet and Markdown issue):
-	'.editor:not(.mini)':
-	  'ctrl-shift-M': 'markdown-preview:toggle'
