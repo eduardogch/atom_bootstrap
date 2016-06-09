@@ -9,3 +9,6 @@ Script to have ready my favorite editor
 
 ## Project Home:
 	~/Apps/
+
+## Formar code:
+	Add .jsbeautifyrc file to the project to get a pretty format
